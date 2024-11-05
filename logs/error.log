@@ -1,0 +1,9 @@
+2024/10/18 19:38:07 [emerg] 17160#13736: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/18 19:40:58 [emerg] 15312#8424: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/18 19:53:03 [error] 10384#5324: *4 CreateFile() "D:\ideaproject\hmall-nginx/html/hmall-portal/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:18080"
+2024/10/19 18:11:41 [emerg] 16828#17140: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/19 18:15:02 [emerg] 12348#3148: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/22 19:26:32 [emerg] 2620#11500: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/23 17:08:42 [error] 20436#2784: *181 CreateFile() "D:\ideaproject\hmall-nginx/html/hmall-portal/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:18080"
+2024/10/23 17:08:44 [error] 20436#2784: *181 CreateFile() "D:\ideaproject\hmall-nginx/html/hmall-portal/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:18080"
+2024/10/23 17:09:03 [error] 20436#2784: *181 CreateFile() "D:\ideaproject\hmall-nginx/html/hmall-portal/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:18080"
